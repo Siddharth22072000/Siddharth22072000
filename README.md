@@ -2,12 +2,12 @@
 
 ###
 
-<p align="left">My name is Siddharth Patel and I'm a ..., from ....</p>
+<p align="left">My name is Siddharth Patel and I'm a fresher, from SRM Institute of Science and Technology</p>
 
 ###
 
 <h2 align="left">About me</h2>
-
+<p align="left">I work with technolgies like  Web Development, Data Science and Data Analytics</p>
 ###
 
 <p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
