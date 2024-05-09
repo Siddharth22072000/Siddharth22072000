@@ -10,7 +10,7 @@
 <p align="left">I work with technolgies like  Web Development, Data Science and Data Analytics</p>
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Always Learning<br>📚 I'm currently learning Data Science<br>🎯 Goals: Work on Technology that impact lives of pepole<br></p>
 
 ###
 
